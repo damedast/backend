@@ -1,0 +1,6 @@
+@Extension_HostAddress = http://localhost:5264
+
+GET {{Extension_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
